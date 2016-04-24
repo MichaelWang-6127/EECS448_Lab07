@@ -1,0 +1,4 @@
+1. The isEmpty() function returns false
+2. The size() function returns an incorrect size
+3. The addBack() function does not properly add the nodes to the back. The previous nodes go missing or they get changed or deleted.
+4. The removeFront() function does not remove the correct node.
